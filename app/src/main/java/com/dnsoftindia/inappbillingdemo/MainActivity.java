@@ -17,7 +17,8 @@ public class MainActivity extends AppCompatActivity {
     private static final String tag = MainActivity.class.getSimpleName();
 
     IabHelper mHelper;
-    static final String ITEM_SKU="android.test.purchased";
+//    static final String ITEM_SKU="android.test.purchased";
+    static final String ITEM_SKU="com.dnsoftindia.inappbillingdemo.buttonclick";
 
     Button btnBuyAClick;
     Button btnClickMe;
